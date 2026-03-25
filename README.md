@@ -6,8 +6,8 @@
 
 ### 🙋 About Me
 
-- 👷‍♂️ Currently (and perpetually) building the next [SXSW](https://sxsw.com/) & [SXSW EDU](https://sxswedu.com/). Just finished #10!
-- 🌱 I'm always learning — currently diving deeper into working with LLMs and other models for aiding software design and development. Bros!
+- 👷‍♂️ Currently (and perpetually!) building the next [SXSW](https://sxsw.com/) & [SXSW EDU](https://sxswedu.com/). Just finished my tenth event!
+- 🌱 I'm always learning — currently diving deeper into working with LLMs, and other model types, for aiding software design and development. ROBOBros!
 - 💬 Ask me about anything — I love a good chat and new friends!
 
 ---
@@ -16,7 +16,8 @@
 
 <div align="center">
 
-![UI/UX Design](https://img.shields.io/badge/UI-UX-Design-8A2BE2?style=for-the-badge&logo=design&logoColor=black)
+
+![Figma](https://img.shields.io/badge/Design-Figma-f24e1e?logo=figma&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)

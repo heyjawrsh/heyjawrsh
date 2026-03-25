@@ -15,13 +15,13 @@
 
 ### 🛠️ Tech & Tools
 
-![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-202020?logo=excalidraw&style=square&logoColor=white)
-![Design%20Systems](https://img.shields.io/badge/Design%20Systems-2B072B?logo=googleassistant&style=square&logoColor=white)
-![Animation](https://img.shields.io/badge/Animation-202020?logo=gsap&style=square&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-2B072B?logo=figma&style=square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2B072B?style=square&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-202020?style=square&logo=ruby&logoColor=white)
+![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-161616?style=for-the-badge&logo=excalidraw&logoColor=white)
+![Design%20Systems](https://img.shields.io/badge/Design%20Systems-F52E9C?style=for-the-badge&logo=googleassistant&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-161616?style=for-the-badge&logo=gsap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F52E9C?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F52E9C?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-161616?style=for-the-badge&logo=ruby&logoColor=white)
 
 ---
 

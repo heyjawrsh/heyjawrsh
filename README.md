@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%40heyjawrsh+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=F77+Minecraft&size=24&letterSpacing=2.5px&pause=1000&color=F52E9C&background=332BB800&center=true&vCenter=true&width=666&height=66&separator=%3C&lines=Howdy+%F0%9F%91%8B+I'm+Jawrsh!;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Designing+%F0%9F%A7%A0+Learning+%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC+Experimenting+%F0%9F%92%BB+Collaborating;I+can+help+you%2C+I+would+love+to!+%F0%9F%92%9C"
+    alt="Typing SVG" />
 </div>
+
 
 ---
 
 ### 🙋 About Me
 
-- 🔭 I'm currently working on exciting projects and side quests
-- 🌱 I'm always learning — currently diving deeper into software development
-- 💬 Ask me about anything — I love a good conversation
-- ⚡ Fun fact: I believe the best code is the code you never have to write again
+- 👷‍♂️ Currently (and perpetually) building the next [SXSW](https://sxsw.com/) & [SXSW EDU](https://sxswedu.com/). Just finished #10!
+- 🌱 I'm always learning — currently diving deeper into working with LLMs and other models for aiding software design and development. Bros!
+- 💬 Ask me about anything — I love a good chat and new friends!
 
 ---
 
@@ -17,9 +19,10 @@
 
 <div align="center">
 
+![UI/UX Design](https://img.shields.io/badge/UI-UX-Design-8A2BE2?style=for-the-badge&logo=design&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

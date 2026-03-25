@@ -1,8 +1,5 @@
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=F77+Minecraft&size=24&letterSpacing=2.5px&pause=1000&color=F52E9C&background=332BB800&center=true&vCenter=true&width=666&height=66&separator=%3C&lines=Howdy+%F0%9F%91%8B+I'm+Jawrsh!;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Designing+%F0%9F%A7%A0+Learning+%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC+Experimenting+%F0%9F%92%BB+Collaborating;I+can+help+you%2C+I+would+love+to!+%F0%9F%92%9C"
-    alt="Typing SVG" />
-</div>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=F77+Minecraft&size=24&letterSpacing=2.5px&pause=1000&color=F52E9C&background=332BB800&center=true&vCenter=true&width=1000&height=60&lines=Howdy+%F0%9F%91%8B+I'm+Jawrsh!;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+Designing+%F0%9F%A7%A0+Learning+%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC+Experimenting+%F0%9F%92%BB+Collaborating;If+I+can+help+you%2C+I+would+love+to!+%F0%9F%92%9C+Just+reach+out!" alt="Typing SVG" /></div>
 
 
 ---

@@ -6,7 +6,7 @@
 
 ### 🙋 About Me
 
-- 🤝 Designer && Developer
+- 🤝 Designer && Developer && Founder && Dreamer
 - 👷‍♂️ Currently (and perpetually!) building the next [SXSW](https://sxsw.com/) & [SXSW EDU](https://sxswedu.com/). Just finished my tenth event!
 - 🌱 I'm always learning — currently diving deeper into working with LLMs, and other model types, for aiding software design and development. ROBOBros!
 - 💬 Ask me about anything — I love a good chat and new friends!

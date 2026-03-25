@@ -16,14 +16,14 @@
 
 <div align="left">
 
-![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-magenta?logo=excalidraw&style=flat)
-![Design%20Systems](https://img.shields.io/badge/Design%20Systems-purple?logo=googleassistant&style=flat)
-![Animation](https://img.shields.io/badge/Animation-magenta?logo=gsap&style=flat)
-![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-magenta?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-purple?style=flat&logo=typescript)
-![Ruby](https://img.shields.io/badge/Ruby-magenta?style=flat&logo=ruby)
-![Docker](https://img.shields.io/badge/Docker-purple?style=flat&logo=docker)
+![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-2A052A?logo=excalidraw&style=flat&logoColor=white)
+![Design%20Systems](https://img.shields.io/badge/Design%20Systems-2B072B?logo=googleassistant&style=flat&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-2A052A?logo=gsap&style=flat&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2B072B?logo=figma&style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2A052A?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B072B?style=flat&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-2A052A?style=flat&logo=ruby&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2B072B?style=flat&logo=docker&logoColor=white)
 
 </div>
 

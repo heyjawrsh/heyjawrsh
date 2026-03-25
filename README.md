@@ -18,6 +18,8 @@
 
 
 ![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-161616?logo=excalidraw&style=flat&logoColor=white)
+![Design%20Systems](https://img.shields.io/badge/Design%20Systems-161616?logo=googleassistant&style=flat&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-161616?logo=gsap&style=flat&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-161616?logo=figma&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=flat&logo=typescript&logoColor=white)

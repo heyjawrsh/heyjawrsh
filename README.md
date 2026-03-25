@@ -28,12 +28,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one-gules-48.vercel.app/api?username=heyjawrsh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-one-gules-48.vercel.app/api/top-langs/?username=heyjawrsh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-one-gules-48.vercel.app/api?username=heyjawrsh&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-one-gules-48.vercel.app/api/top-langs/?username=heyjawrsh&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=heyjawrsh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=heyjawrsh&theme=jolly&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -43,6 +43,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heyjawrsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A0DC?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuabutner)
 
 </div>
 

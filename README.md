@@ -46,8 +46,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heyjawrsh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A0DC?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuabutner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuabutner)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyjawrsh)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jawrsh)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@jawr.sh)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=threads&logoColor=white)](https://www.instagram.com/jawr.sh/)
+[![BlueSky](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/jawr.sh)
+[![PinkSky](https://img.shields.io/badge/Pinksky-E41A88?style=for-the-badge&logo=pinksky&logoColor=white)](https://pinksky.app/@jawr.sh)
 
 </div>
 

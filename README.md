@@ -6,6 +6,7 @@
 
 ### 🙋 About Me
 
+- 🤝 Designer && Developer
 - 👷‍♂️ Currently (and perpetually!) building the next [SXSW](https://sxsw.com/) & [SXSW EDU](https://sxswedu.com/). Just finished my tenth event!
 - 🌱 I'm always learning — currently diving deeper into working with LLMs, and other model types, for aiding software design and development. ROBOBros!
 - 💬 Ask me about anything — I love a good chat and new friends!
@@ -14,18 +15,13 @@
 
 ### 🛠️ Tech & Tools
 
-<div align="left">
-
-![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-2A052A?logo=excalidraw&style=flat&logoColor=white)
-![Design%20Systems](https://img.shields.io/badge/Design%20Systems-2B072B?logo=googleassistant&style=flat&logoColor=white)
-![Animation](https://img.shields.io/badge/Animation-2A052A?logo=gsap&style=flat&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-2B072B?logo=figma&style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2A052A?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2B072B?style=flat&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-2A052A?style=flat&logo=ruby&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2B072B?style=flat&logo=docker&logoColor=white)
-
-</div>
+![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-202020?logo=excalidraw&style=square&logoColor=white)
+![Design%20Systems](https://img.shields.io/badge/Design%20Systems-2B072B?logo=googleassistant&style=square&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-202020?logo=gsap&style=square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2B072B?logo=figma&style=square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B072B?style=square&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-202020?style=square&logo=ruby&logoColor=white)
 
 ---
 

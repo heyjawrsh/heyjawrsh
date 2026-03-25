@@ -17,12 +17,12 @@
 <div align="center">
 
 
-![UI%2FUX%20Design](https://img.shields.io/badge/Figma-161616?logo=figma&style=flat&logoColor=white)
+![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-161616?logo=excalidraw&style=flat&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-161616?logo=figma&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=flat&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-F05032?style=flat&logo=ruby&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-161616?style=flat&logo=ruby&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161616?style=flat&logo=docker&logoColor=white)
 
 </div>
 

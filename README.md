@@ -59,5 +59,6 @@
 ---
 
 <div align="center">
+  <img src="https://hit.yhype.me/github/profile?account_id=53810" alt="Profile views" />
   <img src="https://komarev.com/ghpvc/?username=heyjawrsh&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>

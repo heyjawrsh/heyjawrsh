@@ -15,6 +15,8 @@
 
 ### 🛠️ Tech & Tools
 
+<div align="center">
+
 ![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-972FF6?style=for-the-badge&logo=excalidraw&logoColor=white)
 ![Design%20Systems](https://img.shields.io/badge/Design%20Systems-FF64DA?style=for-the-badge&logo=googleassistant&logoColor=white)
 ![Animation](https://img.shields.io/badge/Animation-972FF6?style=for-the-badge&logo=gsap&logoColor=white)
@@ -22,6 +24,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-972FF6?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF64DA?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-972FF6?style=for-the-badge&logo=ruby&logoColor=white)
+
+</div>
 
 ---
 

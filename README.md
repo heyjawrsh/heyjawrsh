@@ -17,14 +17,11 @@
 <div align="center">
 
 
-![Figma](https://img.shields.io/badge/Figma-f24e1e?logo=figma&style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-red?style=flat&logo=ruby&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![UI%2FUX%20Design](https://img.shields.io/badge/Figma-161616?logo=figma&style=flat&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-161616?logo=figma&style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=flat&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-F05032?style=flat&logo=ruby&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>

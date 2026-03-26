@@ -40,6 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-AF4696?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 </div>
 

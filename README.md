@@ -36,11 +36,10 @@
 ![UI%2FUX%20Design](https://img.shields.io/badge/UI%2FUX%20Design-291B3E?style=for-the-badge&logo=excalidraw&logoColor=white)
 ![Design%20Systems](https://img.shields.io/badge/Design%20Systems-AF4696?style=for-the-badge&logo=googleassistant&logoColor=white)
 ![Animation](https://img.shields.io/badge/Animation-291B3E?style=for-the-badge&logo=gsap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-AF4696?style=for-the-badge&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-AF4696?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-AF4696?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-291B3E?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-AF4696?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20On%20Rails-291B3E?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 </div>
 

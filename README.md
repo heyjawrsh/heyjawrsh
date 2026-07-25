@@ -47,10 +47,12 @@
 
 ### 📊 GitHub Stats
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats-one-gules-48.vercel.app/api?username=heyjawrsh&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats-one-gules-48.vercel.app/api/top-langs/?username=heyjawrsh&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" height="165" />
 </div>
+-->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=heyjawrsh&theme=jolly&hide_border=true" alt="GitHub Streak" />
